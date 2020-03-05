@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Caladea&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+
+*{
+   margin: center;
+   font-family: 'Ubuntu';
+}
+
+.form {
+	margin-top: 100px;
+	text-align: center;
+	padding: 20px, 20px, 20px, 20px;
+}
+
+h1{
+	font-size: 40px;
+	color: #eeeff1;
+	font-family: 'Ubuntu';
+}
+
+input{
+	width: 230px;
+	height: 30px;
+	background: #FFFFFF;
+}
+
